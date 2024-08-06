@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.controller-card {
+  background-color: #475569;
+  padding: 20px;
+}
+.nav-card {
+  display: flex;
+  align-items: center;
+  padding-left: 30px;
+}
+.list-types {
+  color: #fff;
+  font-family: 'roboto';
+  font-weight: 600;
+  padding-left: 10px;
+}
+.layout-heading {
+  color: #fff;
+  font-weight: 600;
+  font-family: 'roboto';
+  padding-left: 30px;
+}

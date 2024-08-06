@@ -1,0 +1,73 @@
+/* Write your CSS here */
+
+.body-main-container {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.body-left-navbar {
+  background-color: #e2e8f0;
+  width: 300px;
+  height: 400px;
+  margin: 20px;
+}
+.body-left-navbar-heading {
+  font-size: 17px;
+  color: #475569;
+  padding-left: 20px;
+  padding-top: 40px;
+}
+.body-left-list-menu-con {
+  list-style-type: none;
+}
+.item {
+  font-size: 18px;
+  font-family: 'roboto';
+  padding: 10px;
+}
+.show-content-container {
+  background-color: #f1f5f9;
+  height: 400px;
+  width: 300px;
+}
+.show-content-heading {
+  font-family: 'roboto';
+  color: #475569;
+  font-size: 18px;
+  padding: 20px;
+}
+.show-content-para {
+  font-family: 'roboto';
+  font-size: 16px;
+  text-align: start;
+  width: 80%;
+  padding: 20px;
+}
+.right-navbar-container {
+  background-color: #cbd5e1;
+  width: 300px;
+  height: 400px;
+  margin: 10px;
+}
+.right-navbar-heading {
+  color: #475569;
+  font-size: 18px;
+  padding-top: 40px;
+  padding-left: 60px;
+}
+.ad-para-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.ad-1-para {
+  border: 2px solid #475569;
+  height: 100px;
+  width: 100px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: 'roboto';
+}
